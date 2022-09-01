@@ -1,0 +1,5 @@
+templates_config:
+  templates_dir: templates
+  videos_dir: videos
+  sprites_dir: sprites
+  video_name: clip4.mp4
