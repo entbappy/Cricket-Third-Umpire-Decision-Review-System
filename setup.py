@@ -2,10 +2,10 @@ from setuptools import setup,find_packages
 from typing import List
 
 #Declaring variables for setup functions
-PROJECT_NAME="IPL-Third-Umpire-Decision-Review-System"
+PROJECT_NAME="Cricket-Third-Umpire-Decision-Review-System"
 VERSION="0.0.1"
 AUTHOR="BOKTIAR AHMED BAPPY"
-DESRCIPTION="This is a small package of IPL-Third-Umpire-Decision-Review-System"
+DESRCIPTION="This is a small package of Cricket-Third-Umpire-Decision-Review-System"
 
 REQUIREMENT_FILE_NAME="requirements.txt"
 

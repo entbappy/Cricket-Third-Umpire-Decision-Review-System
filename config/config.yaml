@@ -1,5 +1,10 @@
 templates_config:
   templates_dir: templates
-  videos_dir: videos
+  clips_dir: clips
   sprites_dir: sprites
-  video_name: clip4.mp4
+  clip_name: clip4.mp4
+
+
+root_app_config:
+  screen_width: 650
+  screen_height: 368
