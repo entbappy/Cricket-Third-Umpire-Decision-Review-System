@@ -34,7 +34,7 @@ python app.py
 ```
 
 ```bash
-Note: update your video clip name inside config.yaml & keep your video clip in templates/clips folder
+Note: update your video clip name inside config/config.yaml & keep your video clip in templates/clips folder
 ```
 
 
