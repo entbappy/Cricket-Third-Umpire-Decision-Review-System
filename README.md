@@ -28,7 +28,7 @@ conda activate review
 pip install -r requirements.txt
 ```
 
-### STEP 03- run app.p
+### STEP 03- run app.py
 ```bash
 python app.py
 ```
